@@ -129,9 +129,11 @@
   <ItemGroup>
     <ClCompile Include="DriverDesignLab.cpp" />
     <ClCompile Include="Lab1.cpp" />
+    <ClCompile Include="Lab3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Lab1.h" />
+    <ClInclude Include="Lab3.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
